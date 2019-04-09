@@ -3,7 +3,7 @@ public class Ejercicio {
 
 	public static void main(String[] args) {
 		
-		
+				System.out.println("buenassss");
 				int[] multiplo = new int [50];
 					for(int x=0; x<multiplo.length; x++){
 						multiplo[x]=x+1;
